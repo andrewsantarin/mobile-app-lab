@@ -2,6 +2,18 @@
   "name": "mobile-app-lab",
   "version": "0.0.1",
   "private": true,
+  "description": "It's just me learning how to React Native with TypeScript, Swift, Kotlin.",
+  "author": {
+    "email": "andrew.santarin@gmail.com",
+    "name": "Cezar Andrew Villegas Santarin",
+    "url": "https://www.linkedin.com/in/andrewsantarin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/andrewsantarin/mobile-app-lab.git"
+  },
+  "homepage": "https://github.com/andrewsantarin/mobile-app-lab",
+  "bugs": "https://github.com/andrewsantarin/mobile-app-lab/issues",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
@@ -19,12 +31,12 @@
     "@react-native-community/eslint-config": "^1.1.0",
     "@types/jest": "^25.2.3",
     "@types/react-native": "^0.63.2",
-    "@types/react-test-renderer": "^16.9.2",
+    "@types/react-test-renderer": "^17.0.0",
     "babel-jest": "^25.1.0",
     "eslint": "^6.5.1",
     "jest": "^25.1.0",
     "metro-react-native-babel-preset": "^0.59.0",
-    "react-test-renderer": "16.13.1",
+    "react-test-renderer": "^17.0.0",
     "typescript": "^3.8.3"
   },
   "resolutions": {
